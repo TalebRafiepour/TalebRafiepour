@@ -69,7 +69,7 @@ Address:
 ```
 0xe466633757ffE136054b9dfdD20B2204329F5269
 ```
-[Pay me via Trust Wallet](https://link.trustwallet.com/send?coin=60&address=0xe466633757ffE136054b9dfdD20B2204329F5269&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7)Or scan it with your crypto wallet:
+[Pay me via Trust Wallet](https://link.trustwallet.com/send?coin=60&address=0xe466633757ffE136054b9dfdD20B2204329F5269&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7) Or scan it with your crypto wallet:
 
 ![USDT (ERC20) QR code](./donate-qr/usdt-erc20.jpg)
 
