@@ -26,3 +26,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=TalebRafiepour&icon=0&color=0)](https://visitcount.itsvg.in)
 
+**If you wants to support me: <a href="https://github.com/TalebRafiepour/TalebRafiepour/blob/main/DONATE.md" alt="Donate button"><img src="https://img.shields.io/badge/-Donate-red?logo=undertale" /></a>**
+
