@@ -3,9 +3,11 @@
 - **Lifelong Learner**: Always eager to learn new things 📚.<be>
 - **Community & Collaboration**: Looking to connect with like-minded people and collaborate on remote projects 🌟💼.<be>
 - **Fitness & Leisure**:<br>  
-- CrossFit enthusiast 🏋️‍♂️<br>  
-- Self-development books and occasional movies 📖🍿<br>  
-- Helping others when I can 🤝<br><br>Feel free to ask me anything! 😊💬<br>
+  - CrossFit enthusiast 🏋️‍♂️<br>  
+  - Self-development books and occasional movies 📖🍿<br>  
+  - Helping others when I can 🤝<br><br>
+
+**Feel free to ask me anything! 😊💬**<br>
 
 
 ## 🌐 Socials:
